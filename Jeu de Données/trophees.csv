@@ -1,0 +1,46 @@
+no_tr;nom_tr;description;type_tr;no_compet;no_saison ;no_club;no_equipe;no_joueur
+1;Coupe Henri Delaunay;Meilleure nation européenne;Equipe nationale;1;1;;17;
+2;Coupe Jules Rimet;Meilleure nation mondiale;Equipe nationale;2;4;;3;
+3;Liga;Meilleur club espagnol;Club;3;1;14;;
+4;Liga;Meilleur club espagnol;Club;3;2;1;;
+5;Liga;Meilleur club espagnol;Club;3;3;6;;
+6;Liga;Meilleur club espagnol;Club;3;4;6;;
+7;Liga;Meilleur club espagnol;Club;3;5;1;;
+8;Premier League;Meilleur club anglais;Club;4;1;13;;
+9;Premier League;Meilleur club anglais;Club;4;2;3;;
+10;Premier League;Meilleur club anglais;Club;4;3;13;;
+11;Premier League;Meilleur club anglais;Club;4;4;13;;
+12;Premier League;Meilleur club anglais;Club;4;5;11;;
+13;Le Scudetto;Meilleur club italien;Club;5;1;10;;
+14;Le Scudetto;Meilleur club italien;Club;5;2;5;;
+15;Le Scudetto;Meilleur club italien;Club;5;3;5;;
+16;Le Scudetto;Meilleur club italien;Club;5;4;5;;
+17;Le Scudetto;Meilleur club italien;Club;5;5;5;;
+18;Le Bouclier;Meilleur club allemand;Club;6;1;4;;
+19;Le Bouclier;Meilleur club allemand;Club;6;2;4;;
+20;Le Bouclier;Meilleur club allemand;Club;6;3;4;;
+21;Le Bouclier;Meilleur club allemand;Club;6;4;4;;
+22;Le Bouclier;Meilleur club allemand;Club;6;5;4;;
+23;L'Hexagoal;Meilleur club français;Club;7;1;15;;
+24;L'Hexagoal;Meilleur club français;Club;7;2;2;;
+25;L'Hexagoal;Meilleur club français;Club;7;3;2;;
+26;L'Hexagoal;Meilleur club français;Club;7;4;2;;
+27;L'Hexagoal;Meilleur club français;Club;7;5;16;;
+28;La Coupe aux grandes oreilles;Meilleur club européen;Club;8;1;11;;
+29;La Coupe aux grandes oreilles;Meilleur club européen;Club;8;2;4;;
+30;La Coupe aux grandes oreilles;Meilleur club européen;Club;8;3;3;;
+31;La Coupe aux grandes oreilles;Meilleur club européen;Club;8;4;1;;
+32;La Coupe aux grandes oreilles;Meilleur club européen;Club;8;5;1;;
+33;CAN;Meilleure nation africaine;Equipe nationale;10;3;;22;
+34;CAN;Meilleure nation africaine;Equipe nationale;10;5;;25;
+35;Copa America;Meilleure équipe sud-américaine;Equipe nationale;11;1;;14;
+36;Copa America;Meilleure équipe sud-américaine;Equipe nationale;11;3;;2;
+37;Ballon d'or;Meilleur joueur de l'année;Individuel;;1;;;48
+38;Ballon d'or;Meilleur joueur de l'année;Individuel;;3;;;48
+39;Ballon d'or;Meilleur joueur de l'année;Individuel;;4;;;13
+40;Ballon d'or;Meilleur joueur de l'année;Individuel;;5;;;184
+41;Soulier d'or;Meilleur buteur d'Europe;Individuel;;1;;;98
+42;Soulier d'or;Meilleur buteur d'Europe;Individuel;;2;;;237
+43;Soulier d'or;Meilleur buteur d'Europe;Individuel;;3;;;48
+44;Soulier d'or;Meilleur buteur d'Europe;Individuel;;4;;;48
+45;Soulier d'or;Meilleur buteur d'Europe;Individuel;;5;;;48

@@ -1,0 +1,328 @@
+no_joueur;nom;prenom;date_naissance;numero;taille;nationalite;poste;pied_fort;surnom;no_club;no_equipe
+1;Courtois;Thibaut;11/05/1992;1;199;Belge;Gardien de But;Gauche;;1;6
+2;Lunin;Andrii;11/02/1999;13;191;Ukrainien;Gardien de But;Droit;;1;9
+3;Carvajal;Daniel;11/01/1992;2;173;Espagnol;Défenseur;Droit;Tête de Kiwi;1;1
+4;Militao;Eder;18/01/1998;3;186;Brésilien;Défenseur;Droit;;1;2
+5;Alaba;David;24/06/1992;4;180;Autrichien;Défenseur;Gauche;;1;10
+6;Vallejo;Jesus;05/01/1997;5;184;Espagnol;Défenseur;Droit;;1;1
+7;Fernandez;Nacho;18/01/1990;6;180;Espagnol;Défenseur;Droit;;1;1
+8;Da silva;Marcelo;12/05/1988;12;174;Brésilien;Défenseur;Gauche;;1;2
+9;Vazquez;Lucas;01/07/1991;17;173;Espagnol;Défenseur;Droit;;1;1
+10;Mendy;Ferland;08/06/1995;23;180;Français;Défenseur;Gauche;;1;3
+11;Ceballos;Dani;07/08/1996;19;179;Espagnol;Milieu;Droit;;1;1
+12;Kroos;Toni;04/01/1990;8;183;Allemand;Milieu;Ambidextre;;1;7
+13;Modric;Luka;09/09/1985;10;172;Croate;Milieu;Droit;Vinaigre;1;4
+14;Casemiro;Carlos Henrique;23/02/1992;14;185;Brésilien;Milieu;Droit;;1;2
+15;Alarcón;Isco;21/04/1992;22;176;Espagnol;Milieu;Droit;Magie;1;1
+16;Camavinga;Eduardo;10/11/2002;25;182;Français;Milieu;Gauche;;1;3
+17;Blanco;Antonio;23/07/2000;27;175;Espagnol;Milieu;;;1;1
+18;Hazard;Eden;07/01/1991;7;175;Belge;Attaquant;Ambidextre;;1;6
+19;Benzema;Karim;19/12/1987;9;185;Français;Attaquant;Ambidextre;Monsieur;1;3
+20;Asensio;Marco;21/01/1996;11;182;Espagnol;Attaquant;Gauche;Asendios;1;1
+21;Valverde;Federico;22/07/1998;15;182;Urugayen;Milieu;Droit;;1;5
+22;Jovic;Luka;23/12/1997;16;182;Serbe;Attaquant;Droit;;1;12
+23;Bale;Gareth;16/07/1989;18;185;Gallois;Attaquant;Gauche;;1;8
+24;Oliveira;Vinicius;12/07/2000;20;176;Brésilien;Attaquant;Droit;;1;2
+25;Goes;Rodrygo;09/01/2001;21;174;Brésilien;Attaquant;Droit;;1;2
+26;Diaz;Mariano;01/08/1993;24;180;Dominicain;Attaquant;Droit;;1;11
+27;Navas;Keylor;15/12/1986;1;185;Costa Ricain;Gardien de But;Droit;;2;13
+28;Donnarumma;Gianluigi;25/02/1999;50;196;Italien;Gardien de But;Droit;;2;17
+29;Ramos;Sergio;30/03/1986;4;184;Espagnol;Défenseur;Droit;;2;1
+30;Hakimi;Achraf;04/11/1998;2;181;Marocain;Défenseur;Droit;;2;20
+31;Kimpembe;Presnel;13/08/1995;3;183;Français;Défenseur;Gauche;;2;3
+32;Aoás Corrêa;Marquinhos;14/05/1994;5;183;Brésilien;Défenseur;Droit;Maroquinhos;2;2
+33;Bernat;Juan;01/03/1993;14;177;Espagnol;Défenseur;Gauche;;2;1
+34;Dagba;Colin;09/09/1998;17;170;Français;Défenseur;Droit;;2;3
+35;Kurzawa;Layvin;04/09/1992;20;182;Français;Défenseur;Gauche;;2;3
+36;Diallo;Abdou;04/05/1996;22;187;Français;Défenseur;Gauche;;2;3
+37;Kehrer;Thilo;21/09/1996;24;186;Allemand;Défenseur;Droit;;2;7
+38;Mendes;Nuno;19/06/2002;25;176;Portugais;Défenseur;Gauche;;2;15
+39;Verratti;Marco;05/11/1992;6;165;Italien;Milieu;Droit;;2;17
+40;Paredes;Leandro;29/06/1994;8;180;Argentin;Milieu;Droit;;2;14
+41;Da Silva Santos;Neymar;05/02/1992;10;175;Brésilien;Attaquant;Droit;Ney;2;2
+42;Di María;Ángel;14/02/1988;11;180;Argentin;Milieu;Gauche;El fideo;2;14
+43;Pereira;Danilo;09/09/1991;15;188;Portugais;Milieu;Droit;;2;15
+44;Wijnaldum;Georginio;11/11/1990;18;175;Néerlandais;Milieu;Droit;Gini;2;19
+45;Herrera;Ander;14/08/1989;21;182;Espagnol;Milieu;Droit;;2;1
+46;Gana Gueye;Idrissa;26/09/1989;27;174;Sénégalais;Milieu;Droit;;2;16
+47;Dina Ebimbe;Eric Junior;21/11/2000;28;175;Français;Milieu;Droit;;2;3
+48;Messi;Lionel;24/06/1987;30;170;Argentin;Attaquant;Gauche;La Pulga;2;14
+49;Mbappé;Kylian;20/12/1998;7;178;Français;Attaquant;Droit;Donatello;2;3
+50;Icardi;Mauro;19/02/1993;9;181;Argentin;Attaquant;Droit;;2;14
+51;Alcântara;Rafinha;12/02/1993;12;174;Brésilien;Milieu;Gauche;;2;2
+52;Draxler;Julian;20/09/1993;23;185;Allemand;Milieu;Droit;;2;7
+53;Becker;Alisson;02/10/1992;1;193;Brésilien;Gardien de But;Droit;;3;2
+54;Adrián ;Adrián ;03/01/1987;13;190;Espagnol;Gardien de But;Droit;;3;1
+55;Van Dijk;Virgil;08/07/1991;4;193;Néerlandais;Défenseur;Droit;;3;19
+56;Konaté;Ibrahima;25/05/1999;5;192;Français;Défenseur;Droit;;3;3
+57;Gomez;Joe;23/05/1997;12;188;Anglais;Défenseur;Droit;;3;18
+58;Tsimikas;Konstantinos;12/05/1996;21;177;Grec;Défenseur;Gauche;;3;26
+59;Robertson;Andrew;11/03/1994;26;178;Ecossais;Défenseur;Gauche;;3;29
+60;Matip;Joël;08/08/1991;32;195;Camerounais;Défenseur;Droit;;3;25
+61;Phillips;Nathaniel;21/03/1997;47;190;Anglais;Défenseur;Droit;;3;18
+62;Alexander-Arnold;Trent;07/10/1998;66;175;Anglais;Défenseur;Droit;;3;18
+63;Williams;Neco;13/04/2001;2;183;Gallois;Défenseur;Droit;;3;8
+64;Tavares;Fabinho;23/10/1993;3;188;Brésilien;Milieu;Droit;;3;2
+65;Alcântara;Thiago;11/04/1991;6;174;Espagnol;Milieu;Droit;;3;1
+66;Milner;James;04/01/1986;7;175;Anglais;Milieu;Droit;;3;18
+67;Keïta;Naby;10/02/1995;8;172;Guinéen;Milieu;Droit;;3;21
+68;Henderson;Jordan;17/06/1990;14;182;Anglais;Milieu;Droit;;3;18
+69;Oxlade-Chamberlain;Alex;15/08/1993;15;180;Anglais;Milieu;Ambidextre;;3;18
+70;Jones;Curtis;30/01/2001;17;185;Anglais;Milieu;Droit;;3;18
+71;Elliott;Harvey;04/04/2003;67;170;Anglais;Milieu;Gauche;;3;18
+72;Firmino;Roberto;02/10/1991;9;181;Brésilien;Attaquant;Droit;Bobby;3;2
+73;Mané;Sadio;10/04/1992;10;175;Sénégalais;Attaquant;Droit;Ballonbuwa;3;16
+74;Balagizi;James;20/09/2003;85;189;Anglais;Attaquant;;;3;18
+75;Salah;Mohamed;15/06/1992;11;175;Egyptien;Attaquant;Gauche;Egyptian King;3;23
+76;Minamino;Takumi;16/01/1995;18;174;Japonais;Attaquant;Droit;;3;24
+77;Jota;Diogo;04/12/1996;20;178;Portugais;Attaquant;Droit;;3;15
+78;Origi;Divock;18/04/1995;27;185;Belge;Attaquant;Ambidextre;;3;6
+79;Neuer;Manuel;27/03/1986;1;193;Allemand;Gardien de But;Droit;;4;7
+80;Ulreich;Sven;03/08/1988;26;192;Allemand;Gardien de But;Droit;;4;7
+81;Upamecano;Dayot;27/10/1998;2;186;Français;Défenseur;Droit;;4;3
+82;Sule;Niklas;03/09/1995;4;195;Allemand;Défenseur;Droit;;4;7
+83;Pavard;Benjamin;28/03/1996;5;186;Français;Défenseur;Droit;;4;3
+84;Davies;Alphonso;02/11/2000;19;183;Canadien;Défenseur;Gauche;Roadrunner;4;30
+85;Sarr;Bouna;31/01/1992;20;177;Sénégalais;Défenseur;Droit;;4;16
+86;Hernandez;Lucas;14/02/1996;21;184;Français;Défenseur;Gauche;;4;3
+87;Kouassi;Tanguy;07/06/2002;23;187;Français;Défenseur;Droit;;4;3
+88;Stanisic;Josip;02/04/2000;44;186;Croate;Défenseur;Droit;;4;4
+89;Kimmich;Joshua;08/02/1995;6;177;Allemand;Milieu;Droit;;4;7
+90;Gnabry;Serge;14/07/1995;7;176;Allemand;Milieu;Droit;;4;7
+91;Goretzka;Leon;06/02/1995;8;189;Allemand;Milieu;Droit;;4;7
+92;Sané;Leroy;11/01/1996;10;183;Allemand;Attaquant;Gauche;;4;7
+93;Coman;Kingsley;13/06/1996;11;180;Français;Attaquant;Droit;;4;3
+94;Sabitzer;Marcel;17/03/1994;18;178;Autrichien;Milieu;Droit;;4;10
+95;Tolisso;Corentin;03/08/1994;24;181;Français;Milieu;Droit;;4;3
+96;Muller;Thomas;13/09/1989;25;185;Allemand;Attaquant;Droit;Raumdauter;4;7
+97;Musiala;Jamal;26/02/2003;42;180;Allemand;Milieu;Droit;;4;7
+98;Lewandowski;Robert;21/08/1988;9;185;Polonais;Attaquant;Droit;Lewangoalski;4;31
+99;Choupo-Moting;Eric Maxim;23/03/1989;13;191;Camerounais;Attaquant;Droit;;4;25
+100;Szczesny;Wojciech;18/04/1990;1;195;Polonais;Gardien de But;Droit;;5;31
+101;Pinsoglio;Carlo;16/03/1990;23;194;Italien;Gardien de But;Gauche;;5;17
+102;De Sciglio;Mattia;20/10/1992;2;182;Italien;Défenseur;Droit;;5;17
+103;Chiellini;Giorgio;14/08/1984;3;187;Italien;Défenseur;Gauche;;5;17
+104;De Ligt;Matthijs;12/08/1999;4;188;Néerlandais;Défenseur;Droit;;5;19
+105;Da Silva;Danilo;15/07/1991;6;184;Brésilien;Défenseur;Droit;;5;2
+106;Sandro;Alex;26/01/1991;12;180;Brésilien;Défenseur;Gauche;;5;2
+107;Bonucci;Leonardo;01/05/1987;19;190;Italien;Défenseur;Droit;;5;17
+108;Rugani;Daniele;29/07/1994;24;190;Italien;Défenseur;Droit;;5;17
+109;Melo;Arthur;12/08/1996;5;171;Brésilien;Milieu;Droit;;5;2
+110;Ramsey;Aaron;26/12/1990;8;178;Gallois;Milieu;Ambidextre;;5;8
+111;Cuadrado;Juan;26/05/1988;11;179;Colombien;Milieu;Droit;;5;33
+112;McKennie;Weston;28/08/1998;14;185;Américain;Milieu;Droit;;5;32
+113;Bernardeschi;Federico;16/02/1994;20;185;Italien;Attaquant;Gauche;;5;17
+114;Chiesa;Federico;25/10/1997;22;175;Italien;Attaquant;Droit;;5;17
+115;Rabiot;Adrien;03/04/1995;25;188;Français;Milieu;Droit;Poupou;5;3
+116;Locatelli;Manuel;08/01/1998;27;185;Italien;Milieu;Droit;;5;17
+117;Bentacur;Rodrigo;25/06/1997;30;187;Urugayen;Milieu;Droit;;5;5
+118;Morata;Alvaro;23/10/1992;9;190;Espagnol;Attaquant;Droit;;5;1
+119;Dybala;Paulo;15/11/1993;10;177;Argentin;Attaquant;Gauche;;5;14
+120;Kean;Moise;28/02/2000;18;182;Italien;Attaquant;Droit;;5;17
+121;Kulusevski;Dejan;25/04/2000;44;186;Suédois;Milieu;Gauche;;5;34
+122;ter Stegen;Marc-André;30/04/1992;1;187;Allemand;Gardien de But;Droit;;6;7
+123;Iñaki;Peña;02/03/1999;26;184;Espagnol;Gardien de But;Droit;;6;1
+124;Piqué;Gerard;02/02/1987;3;194;Espagnol;Défenseur;Droit;;6;1
+125;Lenglet;Clément;17/06/1995;15;186;Français;Défenseur;Gauche;;6;3
+126;Alba;Jordi;21/03/1989;18;170;Espagnol;Défenseur;Gauche;;6;1
+127;Roberto;Sergi;07/02/1992;20;178;Espagnol;Défenseur;Droit;;6;1
+128;Umtiti;Samuel;14/11/1993;23;182;Français;Défenseur;Gauche;;6;3
+129;García;Eric;09/01/2001;24;182;Espagnol;Défenseur;Droit;;6;1
+130;Busquets;Sergio;16/07/1988;5;189;Espagnol;Milieu;Droit;;6;1
+131;Puig;Riqui;13/08/1999;6;169;Espagnol;Milieu;Droit;;6;1
+132;Demir;Yusuf;02/06/2003;11;173;Autrichien;Attaquant;Gauche;;6;10
+133;González;Pedri;25/11/2002;16;174;Espagnol;Milieu;Droit;;6;1
+134;De Jong;Frenkie;12/05/1997;21;180;Néerlandais;Milieu;Droit;;6;19
+135;González;Nico;03/01/2002;28;188;Espagnol;Milieu;Droit;;6;1
+136;Pablo Martin;Gavi;05/08/2004;30;173;Espagnol;Milieu;Droit;;6;1
+137;Dest;Sergiño;03/11/2000;2;175;Américain;Défenseur;Droit;;6;32
+138;Dembélé;Ousmane;15/05/1997;7;178;Français;Attaquant;Ambidextre;;6;3
+139;Depay;Memphis;13/02/1994;9;176;Néerlandais;Attaquant;Droit;;6;19
+140;Fati;Ansu;31/10/2002;10;178;Espagnol;Attaquant;Droit;;6;1
+141;Braithwaite;Martin;05/06/1991;12;177;Danois;Attaquant;Droit;;6;35
+142;Coutinho;Phillippe;12/06/1992;14;172;Brésilien;Attaquant;Droit;;6;2
+143;De Jong;Luuk;27/08/1990;17;188;Néerlandais;Attaquant;Droit;;6;19
+144;Agüero;Sergio;02/06/1988;19;173;Argentin;Attaquant;Droit;;6;14
+145;Lopes;Anthony;01/10/1990;1;184;Portugais;Gardien de But;Gauche;;7;15
+146;Barcola;Malcolm;14/05/1999;40;195;Togolais;Gardien de But;Droit;;7;36
+147;Diomandé;Sinaly;09/04/2001;2;184;Ivoirien;Défenseur;Droit;;7;37
+148;da Conçeiçao;Emerson;03/08/1994;3;176;Italien;Défenseur;Gauche;;7;17
+149;Denayer;Jason;28/06/1995;5;184;Belge;Défenseur;Droit;;7;6
+150;Dubois;Léo;14/09/1994;14;178;Français;Défenseur;Droit;;7;3
+151;Da Silva;Damien;17/05/1988;21;184;Français;Défenseur;Droit;;7;3
+152;Boateng;Jérôme;03/09/1988;27;192;Allemand;Défenseur;Droit;;7;7
+153;Toko Ekambi;Karl;14/09/1992;7;185;Camerounais;Attaquant;Droit;;7;25
+154;Aouar;Houssem;30/06/1998;8;175;Français;Milieu;Droit;;7;3
+155;Paquetá;Lucas;27/08/1997;10;180;Brésilien;Milieu;Gauche;;7;2
+156;Mendes;Thiago;15/03/1992;23;176;Brésilien;Milieu;Droit;;7;2
+157;Caqueret;Maxence;15/02/2000;25;174;Français;Milieu;Droit;;7;3
+158;Shaqiri;Xherdan;10/10/1991;29;169;Suisse;Milieu;Ambidextre;;7;39
+159;Guimarães;Bruno;16/11/1997;39;182;Brésilien;Milieu;Droit;;7;2
+160;Dembélé;Moussa;12/07/1996;9;183;Français;Attaquant;Droit;;7;3
+161;Kadewere;Tino;05/01/1996;11;183;Zimbabwéen;Attaquant;Droit;;7;38
+162;Cherki;Ryan;17/08/2003;18;176;Français;Attaquant;Gauche;;7;3
+163;Slimani;Islam;18/06/1988;20;188;Algérien;Attaquant;Droit;;7;22
+164;de Gea;David;07/11/1990;1;192;Espagnol;Gardien de But;Droit;;8;1
+165;Henderson;Dean;12/03/1997;26;188;Anglais;Gardien de But;Droit;;8;18
+166;Lindelöf;Victor;17/07/1994;2;187;Suédois;Défenseur;Droit;;8;34
+167;Bailly;Eric;12/04/1994;3;187;Ivoirien;Défenseur;Droit;;8;37
+168;Maguire;Harry;05/03/1993;5;194;Anglais;Défenseur;Droit;;8;18
+169;Varane;Raphaël;25/04/1993;19;191;Français;Défenseur;Droit;;8;3
+170;Dalot;Diogo;18/03/1999;20;183;Portugais;Défenseur;Droit;;8;15
+171;Shaw;Luke;12/07/1995;23;185;Anglais;Défenseur;Gauche;;8;18
+172;Telles;Alex;15/12/1992;27;181;Brésilien;Défenseur;Gauche;;8;2
+173;Wan-Bissaka;Aaron;26/11/1997;29;183;Anglais;Défenseur;Droit;;8;18
+174;Pogba;Paul;15/03/1993;6;191;Français;Milieu;Ambidextre;;8;3
+175;Mata;Juan;28/04/1988;8;170;Espagnol;Milieu;Gauche;;8;1
+176;Martial;Anthony;05/12/1995;9;181;Français;Attaquant;Droit;;8;3
+177;Rashford;Marcus;31/10/1997;10;180;Anglais;Attaquant;Droit;;8;18
+178;de Paula Santos;Fred;05/03/1993;17;169;Brésilien;Milieu;Gauche;;8;2
+179;Fernandes;Bruno;08/09/1994;18;179;Portugais;Milieu;Droit;;8;15
+180;Sancho;Jadon;25/03/2000;25;180;Anglais;Attaquant;Droit;;8;18
+181;Matic;Nemanja;01/08/1988;31;194;Serbe;Milieu;Gauche;;8;12
+182;van de Beek;Donny;18/04/1997;34;184;Néerlandais;Milieu;Droit;;8;19
+183;McTominay;Scott;08/12/1996;39;193;Ecossais;Milieu;Droit;;8;29
+184;Ronaldo;Cristiano;05/02/1985;7;187;Portugais;Attaquant;Droit;CR7;8;15
+185;Greenwood;Mason;01/10/2001;11;181;Anglais;Attaquant;Gauche;;8;18
+186;Lingard;Jesse;15/12/1992;14;175;Anglais;Milieu;Droit;;8;18
+187;Cavani;Edinson;14/02/1987;21;184;Urugayen;Attaquant;Droit;El Matador;8;5
+188;Kobel;Gregor;06/12/1997;1;196;Suisse;Gardien de But;Droit;;9;39
+189;Bürki;Roman;14/11/1990;38;187;Suisse;Gardien de But;Droit;;9;39
+190;Maloney;Lennard;08/10/1999;4;187;Allemand;Défenseur;;;9;7
+191;Zagadou;Dan-Axel;03/06/1999;5;196;Français;Défenseur;Gauche;;9;3
+192;Guerreiro;Raphaël;22/12/1993;13;170;Portugais;Défenseur;Gauche;;9;15
+193;Schulz;Nico;01/04/1993;14;180;Allemand;Défenseur;Gauche;;9;7
+194;Hummels;Mats;16/12/1988;15;191;Allemand;Défenseur;Droit;;9;7
+195;Akanji;Manuel;19/07/1995;16;187;Suisse;Défenseur;Droit;;9;39
+196;Meunier;Thomas;12/09/1991;24;190;Belge;Défenseur;Droit;Ivan Drago;9;6
+197;Passlack;Felix;29/05/1998;30;170;Allemand;Milieu;Droit;;9;7
+198;Pongracic;Marin;11/09/1997;34;190;Croate;Défenseur;Droit;;9;4
+199;Reyna;Giovanni;13/11/2002;7;185;Américain;Milieu;Droit;;9;32
+200;Dahoud;Mahmoud;01/01/1996;8;178;Allemand;Milieu;Droit;;9;7
+201;Hazard;Thorgan;29/03/1993;10;175;Belge;Milieu;Ambidextre;;9;6
+202;Reus;Marco;31/05/1989;11;180;Allemand;Attaquant;Droit;;9;7
+203;Brandt;Julian;02/05/1996;19;185;Allemand;Milieu;Droit;;9;7
+204;Bellingham;Jude;29/06/2003;22;186;Anglais;Milieu;Droit;;9;18
+205;Can;Emre;12/01/1994;23;186;Allemand;Milieu;Droit;;9;7
+206;Witsel;Axel;12/01/1989;28;186;Belge;Milieu;Droit;;9;6
+207;Knauff;Ansgar;10/01/2002;36;180;Allemand;Milieu;Droit;;9;7
+208;Wolf;Marius;27/05/1995;39;188;Allemand;Milieu;Droit;;9;7
+209;Haaland;Erling;21/07/2000;9;194;Norvégien;Attaquant;Gauche;;9;40
+210;Moukoko;Youssoufa;20/11/2004;18;179;Allemand;Attaquant;Gauche;;9;7
+211;Malen;Donyell;19/01/1999;21;176;Néerlandais;Attaquant;Droit;;9;19
+212;Tigges;Steffen;31/07/1998;27;193;Allemand;Attaquant;Ambidextre;;9;7
+213;Handanovic;Samir;14/07/1984;1;193;Slovène;Gardien de But;Droit;;10;45
+214;Radu;Ionut;28/05/1997;97;188;Roumain;Gardien de But;Droit;;10;46
+215;de Vrij;Stefan;05/02/1992;6;189;Néerlandais;Défenseur;Droit;;10;19
+216;Kolarov;Aleksandar;10/11/1985;11;187;Serbe;Défenseur;Gauche;;10;12
+217;Ranocchia;Andrea;16/02/1988;13;195;Italien;Défenseur;Droit;;10;17
+218;D'Ambrosio;Danilo;09/09/1988;33;180;Italien;Défenseur;Droit;;10;17
+219;Škriniar;Milan;11/02/1995;37;187;Slovaque;Défenseur;Gauche;;10;44
+220;Bastoni;Alessandro;13/04/1999;95;190;Italien;Défenseur;Gauche;;10;17
+221;Dumfries;Denzel;18/04/1996;2;188;Néerlandais;Défenseur;Droit;;10;19
+222;Gagliardini;Roberto;07/04/1994;5;190;Italien;Milieu;Droit;;10;17
+223;Vecino;Matías;24/08/1991;8;187;Urugayen;Milieu;Droit;;10;5
+224;Sensi;Stefano;05/08/1995;12;168;Italien;Milieu;Droit;;10;17
+225;Perišic;Ivan;02/02/1989;14;186;Croate;Milieu;Ambidextre;;10;4
+226;Çalhanoglu;Hakan;08/02/1994;20;178;Turc;Milieu;Droit;;10;43
+227;Vidal;Arturo;22/05/1987;22;180;Chilien;Milieu;Droit;;10;41
+228;Barella;Nicolò;07/02/1997;23;175;Italien;Milieu;Droit;;10;17
+229;Eriksen;Christian;14/02/1992;24;182;Danois;Milieu;Ambidextre;;10;35
+230;Dimarco;Federico;10/11/1997;32;175;Italien;Défenseur;Gauche;;10;17
+231;Darmian;Matteo;02/12/1989;36;182;Italien;Défenseur;Droit;;10;17
+232;Brozovic;Marcelo;16/11/1992;77;181;Croate;Milieu;Ambidextre;;10;4
+233;Sánchez;Alexis;19/12/1988;7;169;Chilien;Attaquant;Droit;;10;41
+234;Džeko;Edin;17/03/1986;9;193;Bosnien;Attaquant;Ambidextre;;10;42
+235;Martínez;Lautaro;22/08/1997;10;174;Argentin;Attaquant;Droit;;10;14
+236;Correa;Joaquín;13/08/1994;19;189;Argentin;Milieu;Droit;;10;14
+237;Immobile;Ciro;20/02/1990;17;185;Italien;Attaquant;Droit;;17;17
+238;Strakosha;Thomas;19/03/1995;1;186;Albanais;Gardien de But;Droit;;17;49
+239;Acerbi;Francesco;10/02/1988;33;192;Italien;Défenseur;Gauche;;17;17
+240;Hysaj;Elseid;02/02/1994;23;182;Albanais;Défenseur;Droit;;17;49
+241;Felipe;Luiz;22/03/1997;3;187;Brésilien;Défenseur;Droit;;17;2
+242;Lazzari;Manuel;29/11/1993;29;174;Italien;Milieu;Droit;;17;17
+243;Basic;Toma;25/11/1996;88;189;Croate;Milieu;Droit;;17;4
+244;Leiva;Lucas;09/01/1987;6;179;Brésilien;Milieu;Droit;;17;2
+245;Alberto;Luis;28/09/1992;10;182;Espagnol;Milieu;Droit;;17;1
+246;Rodriguez;Pedro;28/07/1987;9;169;Espagnol;Attaquant;Ambidextre;;17;1
+247;Anderson;Felipe;15/04/1993;7;175;Brésilien;Attaquant;Droit;;17;2
+248;Mendy;Edouard;01/03/1992;16;197;Sénégalais;Gardien de But;Droit;;11;16
+249;Rudiger;Antonio;03/03/1993;2;190;Allemand;Défenseur;Droit;;11;7
+250;Silva;Thiago;22/09/1984;6;183;Brésilien;Défenseur;Droit;;11;2
+251;Christensen;Andreas;10/04/1996;4;187;Danois;Défenseur;Droit;;11;35
+252;Alonso;Marcos;28/12/1990;3;188;Espagnol;Défenseur;Gauche;;11;1
+253;Kanté;N'Golo;29/03/1991;7;168;Français;Milieu;Droit;;11;3
+254;Azpilicueta;César;28/08/1989;28;178;Espagnol;Défenseur;Droit;;11;1
+255;Hudson-Odoi;Callum;07/11/2000;20;182;Anglais;Attaquant;Droit;;11;18
+256;Ziyech;Hakim;19/03/1993;22;181;Marocain;Milieu;Gauche;;11;20
+257;Lukaku;Romelu;13/05/1993;9;190;Belge;Attaquant;Gauche;;11;6
+258;Luiz;Jorge;20/12/1991;5;180;Italien;Milieu;Ambidextre;;11;17
+259;Rulli;Geronimo;20/05/1992;13;189;Argentin;Gardien de But;Droit;;12;14
+260;Torres;Pau;16/01/1990;4;191;Espagnol;Défenseur;Gauche;;12;1
+261;Pedraza;Alfonso;09/04/1996;24;184;Espagnol;Milieu;Gauche;;12;1
+262;Albiol;Raul;04/09/1985;3;187;Espagnol;Défenseur;Droit;;12;1
+263;Foyth;Juan;12/01/1998;8;179;Argentin;Défenseur;Droit;;12;14
+264;Gomez;Moi;23/06/1994;23;176;Espagnol;Milieu;Ambidextre;;12;1
+265;Parejo;Dani;16/04/1989;5;182;Espagnol;Milieu;Droit;;12;1
+266;Capoue;Etienne;11/07/1988;6;189;Français;Milieu;Droit;;12;3
+267;Pino;Yeremi;20/10/2002;21;172;Espagnol;Milieu;;;12;1
+268;Groeneveld;Arnaut ;31/01/1997;15;178;Néerlandais;Attaquant;Ambidextre;;12;19
+269;Trigueros;Manuel;17/10/1991;14;178;Espagnol;Milieu;Droit;;12;1
+270;Moraes;Ederson;17/08/1993;31;188;Brésilien;Gardien de But;Gauche;;13;2
+271;Cancelo;Joao;27/05/1994;27;182;Portugais;Défenseur;Droit;;13;15
+272;Laporte;Aymeric;27/05/1994;14;191;Espagnol;Défenseur;Gauche;;13;1
+273;Dias;Ruben;14/05/1997;3;186;Portugais;Défenseur;Ambidextre;;13;15
+274;Walker;Kyle;28/05/1990;2;178;Anglais;Défenseur;Droit;;13;18
+275;Silva;Bernardo;10/08/1994;20;173;Portugais;Milieu;Gauche;;13;15
+276;Hernandez;Rodrigo;22/06/1996;16;191;Espagnol;Milieu;Droit;;13;1
+277;Gundogan;Ilkay;24/10/1990;8;180;Allemand;Milieu;Droit;;13;7
+278;Grealish;Jack;10/09/1995;10;175;Anglais;Milieu;Droit;;13;18
+279;Foden;Phil;28/05/2000;47;171;Anglais;Milieu;Gauche;;13;18
+280;Mahrez;Riyad;21/02/1991;26;179;Algérien;Attaquant;Gauche;;13;22
+281;Oblak;Jan;07/01/1993;13;188;Slovène;Gardien de But;Droit;;14;45
+282;Hermoso;Mario;18/06/1995;22;184;Espagnol;Défenseur;Gauche;;14;1
+283;Gimenez;José;20/01/1995;2;185;Urugayen;Défenseur;Droit;;14;5
+284;Savic;Stefan;08/01/1991;15;187;Monténégrin;Défenseur;Droit;;14;48
+285;Resurreccion;Koke;08/01/1992;6;176;Espagnol;Milieu;Droit;;14;1
+286;Carrasco;Yannick;04/09/1993;21;185;Belge;Milieu;Ambidextre;;14;6
+287;Llorente;Marcos;30/01/1995;14;184;Espagnol;Milieu;Droit;;14;1
+288;Lemar;Thomas;12/11/1995;11;171;Français;Milieu;Gauche;;14;3
+289;De Paul;Rodrigo;24/05/1994;5;180;Argentin;Milieu;Droit;;14;14
+290;Suarez;Luis;24/01/1987;9;182;Urugayen;Attaquant;Droit;;14;5
+291;Griezmann;Antoine;21/03/1991;8;176;Français;Attaquant;Gauche;;14;3
+292;Grbic;Ivo;18/01/1996;1;195;Croate;Gardien de But;Droit;;15;4
+293;Mandava;Reinildo;21/01/1994;28;180;Mozambicain;Défenseur;Gauche;;15;51
+294;Djalo;Tiago;09/04/2000;3;190;Portugais;Défenseur;Droit;;15;15
+295;Fonte;José;22/12/1983;6;187;Portugais;Défenseur;Droit;;15;15
+296;Celik;Zeki;17/02/1997;2;180;Turc;Défenseur;Droit;;15;43
+297;Bamba;Jonathan;26/03/1996;7;175;Français;Attaquant;Droit;;15;3
+298;Da Silva;Miguel Angelo;10//11/1994;8;185;Portugais;Milieu;Droit;;15;15
+299;André;Benjamin;03/08/1990;21;180;Français;Milieu;Droit;;15;3
+300;Weah;Timothy;22/02/2000;22;183;Américain;Attaquant;Droit;;15;32
+301;Yilmaz;Burak;15/07/1985;17;188;Turc;Attaquant;Droit;;15;43
+302;David;Jonathan;14/01/2000;9;177;Canadien;Attaquant;Droit;;15;30
+303;Nubel;Alexander;30/09/1996;16;193;Allemand;Gardien de But;Droit;;16;7
+304;Henrique;Caio;31/07/1997;12;179;Brésilien;Défenseur;Gauche;;16;2
+305;Badiashile;Benoit;26/03/2001;5;194;Français;Défenseur;Droit;;16;3
+306;Disasi;Axel;11/03/1998;6;190;Français;Défenseur;Droit;;16;3
+307;Sidibé;Djibril;29/07/1992;19;182;Français;Défenseur;Droit;;16;3
+308;Golovin;Aleksandr;30/05/1996;17;180;Russe;Milieu;Droit;;16;50
+309;Tchouaméni;Aurélien;27/01/2000;8;185;Français;Milieu;Droit;;16;3
+310;Fofana;Youssouf;10/01/1999;22;178;Français;Milieu;;;16;3
+311;Martins;Gelson;11/05/1995;7;173;Portugais;Milieu;Droit;;16;15
+312;Volland;Kevin;30/07/1992;31;178;Allemand;Attaquant;Gauche;;16;7
+313;Ben Yedder;Wissam;12/08/1990;10;170;Français;Attaquant;Droit;;16;3
+314;Weah;George;01/10/1966;9;184;Libérien;Attaquant;;King George;16;47
+315;Drogba;Didier;11/03/1978;11;189;Ivoirien;Attaquant;Droit;Drogbadaboum;11;37
+316;Maradona;Diego;30/10/1960;10;167;Argentin;Milieu;Gauche;El Pibe de Oro;18;14
+317;do Nascimento;Pelé;23/10/1940;10;173;Brésilien;Attaquant;Ambidextre;Le Roi Pelé;19;2
+318;Nazario;Ronaldo;22/09/1976;9;183;Brésilien;Attaquant;;El Fenomeno;1;2
+319;Moreira;Ronaldinho;21/03/1980;10;182;Brésilien;Milieu;Droit;Ronnie;6;2
+320;Cruyff;Johan;25/04/1947;14;178;Néerlandais;Attaquant;Ambidextre;Le Hollandais Volant;20;19
+321;Beckham;David;02/05/1975;7;180;Anglais;Milieu;Droit;Le Spice Boy;8;18
+322;Beckenbauer;Franz;11/09/1945;5;181;Allemand;Défenseur;;Der Kaiser;4;7
+323;Muller;Gerd;03/11/1945;9;177;Allemand;Attaquant;;Der Bomber;4;7
+324;Zidane;Zinédine;23/06/1972;5;185;Français;Milieu;Droit;Zizou;1;3
+325;Platini;Michel;21/06/1955;10;178;Français;Milieu;;Platoch';5;3
+326;Cantona;Eric;24/05/1966;7;188;Français;Attaquant;;Eric the King;8;3
+327;Deschamps;Didier;15/10/1968;14;174;Français;Milieu;Droit;Dédé;5;3

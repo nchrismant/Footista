@@ -1,0 +1,12 @@
+no_compet;nom_compet;pays_compet;organisateur;type_compet
+1;Euro;;UEFA;Equipe nationale
+2;Coupe du monde;;FIFA;Equipe nationale
+3;Liga;Espagne;Liga de Fútbol Profesional;Club
+4;Premier League;Angleterre;The F.A. Premier League;Club
+5;Serie A;Italie;FIGC - Lega Serie A;Club
+6;Bundesliga;Allemagne;Deutsche Fußball-Liga;Club
+7;Ligue 1;France;LFP;Club
+8;Ligue des Champions;;UEFA;Club
+9;Ligue Europa;;UEFA;Club
+10;CAN;;CAF;Equipe nationale
+11;Copa America;;CONMEBOL;Equipe nationale
