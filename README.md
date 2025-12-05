@@ -139,7 +139,7 @@ Cette structure permet de séparer **logique (back-end / modèle)**, **présenta
 
 | Technologie         | Rôle              |
 | ------------------- | ----------------- |
-| **MySQL**           | Base de données |
+| **PostgreSQL**           | Base de données |
 | **Java**            | Application réseau |
 | **Eclipse**         | IDE recommandé |
 | **PHP**             | Application web côté serveur |
